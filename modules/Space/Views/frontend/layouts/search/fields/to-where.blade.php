@@ -1,0 +1,1 @@
+@include('Space::frontend.layouts.search.fields.location',['inputName'=>'to_where'])
